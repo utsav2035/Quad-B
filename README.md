@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# QuadB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Assignment For QuadB
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+Clone the git repository:
 
-### `npm start`
+```bash
+  git clone https://github.com/utsav2035/Quad-B.git
+  cd QUADB
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Install necessary dependencies:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+   yarn install
+```
 
-### `npm test`
+Run development server:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+  yarn run start
+```
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Upon server start Home page (Landing Page) is reached.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. From the Home page ,select any movie/series.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. A new page with description of selected content is opened.
 
-### `npm run eject`
+4. Book tickets by clicking on book tickets button on the page.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
+![home-desktop](https://github.com/utsav2035/democracy/assets/76161063/fc39c73e-8d3a-4356-af26-ef5cd3c78c60)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![info-desktop](https://github.com/utsav2035/democracy/assets/76161063/835c14e3-e207-4cce-a474-3086936d9759)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![form-desktop](https://github.com/utsav2035/democracy/assets/76161063/48bf99e0-0680-4c57-bf0c-45f5ffe40cc7)
